@@ -1,0 +1,22 @@
+{
+  "name": "kookies",
+  "version": "0.1.2",
+  "description": "A complete cookies reader/writer framework with full unicode support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/koding/kookies.git"
+  },
+  "keywords": [
+    "cookie"
+  ],
+  "author": "Chris Thorn <chris@koding.com>",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/koding/kookies/issues"
+  },
+  "homepage": "https://github.com/koding/kookies#readme"
+}
